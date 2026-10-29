@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.7z
+*.zip
+*.sqlite*
+password*
+record.json
+.transfer-manifest.json
